@@ -3,21 +3,21 @@
 <div align="center">
   
   <!-- ใส่ลิงก์รูปภาพ Banner ด้านบนของคุณที่นี่ -->
-  <img src="Pink and Beige Minimalist Welcome Banner.png" alt="Header Banner" width="100%">" alt="Header Banner" width="100%">
+  <img src="Pink and Beige Minimalist Welcome Banner.png" alt="Header Banner" width="100%">
 
   <br><br>
 
   <!-- เอฟเฟกต์ตัวหนังสือพิมพ์ -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4299E1&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning;Data+Engineering" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4299E1&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning;Data+Engineering](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4299E1&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning;Data+Engineering)" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <!-- ป้ายช่องทางการติดต่อ -->
-  <a href="https://github.com/nannaphatkn"><img src="https://img.shields.io/badge/GITHUB-nannaphatkn-FF8C00?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:nannaphat.kn12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-nannaphat.kn12@gmail.com-FFA500?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/PHONE-098%20438%201704-FAEBD7?style=for-the-badge&logo=whatsapp&logoColor=black">
+  <a href="[https://github.com/nannaphatkn](https://github.com/nannaphatkn)"><img src="[https://img.shields.io/badge/GITHUB-nannaphatkn-FF8C00?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-nannaphatkn-FF8C00?style=for-the-badge&logo=github&logoColor=white)"></a>
+  <a href="mailto:nannaphat.kn12@gmail.com"><img src="[https://img.shields.io/badge/GMAIL-nannaphat.kn12@gmail.com-FFA500?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/GMAIL-nannaphat.kn12@gmail.com-FFA500?style=for-the-badge&logo=gmail&logoColor=white)"></a>
+  <img src="[https://img.shields.io/badge/PHONE-098%20438%201704-FAEBD7?style=for-the-badge&logo=whatsapp&logoColor=black](https://img.shields.io/badge/PHONE-098%20438%201704-FAEBD7?style=for-the-badge&logo=whatsapp&logoColor=black)">
 
 </div>
 
@@ -33,8 +33,10 @@ class DataEngineer:
         self.name = "Nannaphat Kaenphanao"
         self.role = "Data Engineer & AI Engineer"
         self.location = "Bangkok, Thailand 🇹🇭"
-        self.education = "B.SC. Computer Engineering @ KMUTT"
-        self.education = "B.SC. Health Data Science  @ CRA"
+        self.education = [
+            "B.Sc. Computer Engineering @ KMUTT",
+            "B.Sc. Health Data Science @ CRA"
+        ]
 
     def interests(self):
         return [
@@ -48,8 +50,6 @@ class DataEngineer:
     def current_focus(self):
         return "Building end-to-end data pipelines & intelligent systems"
 
-
-
 <div align="center">
   
   <h3>🛠️ Tech Stack</h3>
@@ -58,13 +58,11 @@ class DataEngineer:
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-
   <h4>🧬 Data Science & Bioinformatics</h4>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-
   <h4>🔧 Infrastructure & Tools</h4>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white">
