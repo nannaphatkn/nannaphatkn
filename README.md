@@ -15,9 +15,9 @@
   <br><br>
 
   <!-- ป้ายช่องทางการติดต่อ -->
-  <a href="https://github.com/YummieGG"><img src="https://img.shields.io/badge/GITHUB-YUMMIEGG-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:MUMMYCZA9997@GMAIL.COM"><img src="https://img.shields.io/badge/GMAIL-MUMMYCZA9997-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/PHONE-%2B66%2080%20821%204160-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://github.com/nannaphatkn"><img src="https://img.shields.io/badge/GITHUB-nannaphatkn-FF8C00?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:nannaphat.kn12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-nannaphat.kn12@gmail.com-FFA500?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/PHONE-098%20438%201704-FAEBD7?style=for-the-badge&logo=whatsapp&logoColor=black">
 
 </div>
 
