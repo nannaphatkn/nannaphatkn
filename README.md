@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- ใส่ลิงก์รูปภาพ Banner ด้านบนของคุณที่นี่ -->
-  <img src="file:///Users/janinee/Downloads/Pink%20and%20Beige%20Minimalist%20Welcome%20Banner.pdf" alt="Header Banner" width="100%">
+  <img src="file:/file:/Users/janinee/Downloads/Pink%20and%20Beige%20Minimalist%20Welcome%20Banner.png" alt="Header Banner" width="100%">
 
   <br><br>
 
