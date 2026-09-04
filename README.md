@@ -35,7 +35,7 @@ class DataEngineer:
         self.role = "Data Engineer & AI Engineer"
         self.location = "Bangkok, Thailand 🇹🇭"
         self.education = [
-            "B.Sc. Computer Engineering @ KMUTT",
+            "B.Sc. Computer Engineering(Health Data Science) @ KMUTT",
             "B.Sc. Health Data Science @ CRA"
         ]
 
@@ -67,12 +67,13 @@ class DataEngineer:
 
 ### 🎓 Education
 
-🏛️ **B.Sc. Computer Engineering (3rd Year)**
+🏛️ **B.Sc. Computer Engineering(Health Data Science) (3rd Year)**
 
 
 
 
 King Mongkut's University of Technology Thonburi (KMUTT)
+Chulabhorn Royal Academy
 
 
 
